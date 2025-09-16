@@ -1,2 +1,5 @@
 src hinzugefügt 
-rc/App.js
+rc/App.jssrc/
+ ├── screens/
+ │    └── HomeScreen.js
+ └── App.js
